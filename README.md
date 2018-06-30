@@ -73,6 +73,9 @@ We already get round of 16 teams. Using for loop we compare each teams by there 
    ['Brazil', 'Spain']
 2018 worldcup champion is
               Brazil
+![r](https://user-images.githubusercontent.com/38527656/42123237-34ca40a2-7c6c-11e8-89bd-db013944cb35.png)
+	      
+	      
 # Code and Output: -
 Please find the code from Project-report word file.
 
